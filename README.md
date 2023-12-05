@@ -1,10 +1,8 @@
 # Assignment_LoveLocal
-Divya T Murthy
+Submitted by: Divya T Murthy
 
-4SO20CS043
+USN: 4SO20CS043
 
-St Joseph Engineerng College 
+Email:divyatmurthy55@gmail.com
 
-Vamanjoor, Mangalore
-
-divyatmurthy55@gmail.com
+College: St Joseph Engineerng College,Vamanjoor 
